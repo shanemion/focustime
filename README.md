@@ -1,12 +1,19 @@
-# Sample Snack app
+# FocusTime
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+FocusTime is a mobile application developed as part of the "React Native Zero to Mastery" course on Udemy. It serves as a productivity tool designed to help users manage their time effectively and enhance their focus and concentration. The app utilizes React Native, a powerful JavaScript framework for building cross-platform mobile applications.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Key Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- **Customizable Timers**: Create timers tailored to your needs.
+- **Focused Work Sessions**: Define work sessions to concentrate on specific tasks.
+- **Pomodoro Technique**: Utilize Pomodoro technique-based timers for efficient time management.
+- **Task Categorization**: Organize tasks into categories for better organization.
+- **Progress Tracking**: Track your progress to stay motivated and accountable.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Utilizing React Native's Powerful Features
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-# focustime
+FocusTime leverages various features of React Native to provide a seamless user experience:
+
+- **State Management**: Utilize React Native's state management capabilities for handling data and application state.
+- **Navigation**: Implement smooth and intuitive navigation using React Native's navigation libraries.
+- **UI Components**: Utilize React Native's UI components to create an appealing and user-friendly interface.
